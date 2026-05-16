@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dr. Beenish Bakhtawar
 
-I am a **Post‑Doctoral Fellow** in the Department of Building and Real Estate (BRE) at **The Hong Kong Polytechnic University (PolyU)**.  
+I am a **Post‑Doctoral Researcher** in the Department of Building and Real Estate (BRE) at **The Hong Kong Polytechnic University (PolyU)**.  
 My research focuses on smart water infrastructure, pipeline failure prediction, leak detection using AIoT/sensing technologies, and sustainable construction management.
 
 🏆 *Recipient of the BRE Outstanding Thesis Award 2024‑25 (3rd Prize)*  
