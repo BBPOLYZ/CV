@@ -32,7 +32,7 @@ My research focuses on smart water infrastructure, pipeline failure prediction, 
 
 ## 💼 Current Position
 
-**Post‑Doctoral Fellow** – Building and Real Estate Department, PolyU, Hong Kong *(June 2025 – present)*
+**Post‑Doctoral Researcher** – Building and Real Estate Department, PolyU, Hong Kong *(June 2025 – present)*
 
 ---
 
